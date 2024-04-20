@@ -1,0 +1,17 @@
+{
+  "name": "localapitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "faker": "^5.5.3",
+    "node-xlsx": "^0.21.0",
+    "puppeteer": "^13.5.2",
+    "selenium-webdriver": "^4.1.1",
+    "vue-logo-fill": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
